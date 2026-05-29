@@ -1,5 +1,5 @@
 # 💫 About Me:
-MCA Student | Aspiring Full Stack Developer & Data Analyst<br>Passionate about building modern web applications and AI-powered projects using MERN Stack, Flutter, Java, Python, and PostgreSQL.<br>Currently learning advanced full stack development, data analytics, and cloud computing while working on real-world team projects.<br>
+MCA Student | Aspiring Full Stack Developer & Data Analyst<br>Passionate about building modern web applications and AI-powered projects using MERN Stack, Flutter, Java, Python, and MySql.<br>Currently learning advanced full stack development, data analytics, and cloud computing while working on real-world team projects.<br>
 
 
 ## 🌐 Socials:
